@@ -1,0 +1,3 @@
+[11/19/2018 13:11:29] [e(0)] core: Failed to connect to the database: No database YAML file
+[11/19/2018 13:11:29] [d(0)] core: Created user based module store
+[11/19/2018 13:11:32] [e(0)] core: Unable to load module /home/para/.blackman/metasploit-framework/modules/auxiliary/gather/office365userenum.py, unknown module type
