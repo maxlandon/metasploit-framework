@@ -1,3 +1,6 @@
 exit
 exit
 loadpath /home/para/.msf4/modules/
+exit
+loadpath /home/para/.msf4/modules/exploits/training 
+exit
