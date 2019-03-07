@@ -1,0 +1,5 @@
+#-------------------------------------------#
+#       MSF CONSOLE CONFIGURATION FILE      #
+#-------------------------------------------#
+
+set prompt %yel%L %red%S %gre%J %blu%D %whi >   

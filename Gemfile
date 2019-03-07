@@ -21,6 +21,9 @@ group :development do
   # Metasploit::Aggregator external session proxy
   # disabled during 2.5 transition until aggregator is available
   #gem 'metasploit-aggregator'
+
+  # Add Irb Tools
+  gem 'irbtools', require: 'irbtools/binding'
 end
 
 group :development, :test do
